@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "C:\\Users\\parkash.kumar\\Documents\\Sample\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Development\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "C:\\Users\\parkash.kumar\\Documents\\Sample\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\parkash.kumar\\Documents\\Sample\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "C:\\Development\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "C:\\Users\\parkash.kumar\\Documents\\Sample\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\parkash.kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\UnitTestProject1\\UnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\parkash.kumar\\Documents\\Sample\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parkash.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
