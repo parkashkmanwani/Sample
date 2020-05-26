@@ -3,9 +3,6 @@ mono: none
 
 dotnet: 2.1.502
 
-install:
-- dotnet restore
-
 script:
 - dotnet build
 - dotnet test UnitTestProject1/UnitTestProject1.csproj
